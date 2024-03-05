@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm amira elalem</h1>
 <h3 align="center">A passionate developer from Tunisia</h3>
 <img align="left" alt="coding" width="300" src="https://cdn3.vectorstock.com/i/1000x1000/48/37/web-developer-design-vector-5884837.jpg">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amira-elalem" alt="amira-elalem" /></a> </p>
+
 
 - 🔭 I’m currently working on **Devops project**
 
